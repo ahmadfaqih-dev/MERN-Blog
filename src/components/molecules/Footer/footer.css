@@ -1,0 +1,44 @@
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: palevioletred;
+  padding: 10px 40px;
+  margin: 0px;
+}
+
+.footer .logo {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.footer .list-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.footer .list-wrapper .icon-wrapper {
+  padding: 10px;
+  font-size: 20px;
+  margin: 0px 10px;
+}
+
+.copyright {
+  background-color: #e6618d;
+  padding: 10px 0px;
+}
+
+.copyright p {
+  font-size: 14px;
+  color: white;
+  text-align: center;
+  margin: 0px;
+}
+/*# sourceMappingURL=footer.css.map */

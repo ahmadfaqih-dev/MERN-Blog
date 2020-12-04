@@ -1,0 +1,32 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: palevioletred;
+    padding: 10px 40px;
+    margin: 0px;
+    .logo {
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .list-wrapper {
+       display: flex;
+
+       .icon-wrapper {
+            padding: 10px;
+            font-size: 20px;
+            margin: 0px 10px;
+       }
+    }
+}
+
+.copyright {
+    background-color: rgb(230, 97, 141);
+    padding: 10px 0px;
+    p {
+        font-size: 14px;
+        color: white;
+        text-align: center;
+        margin: 0px;
+    }
+}
