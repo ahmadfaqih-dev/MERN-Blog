@@ -1,7 +1,9 @@
 .button {
     padding: 12px;
     font-size: 16px;
-    background-color: hotpink;
+    background: #43c6ac;
+    background: -webkit-linear-gradient(to right, #43c6ac, #191654); 
+    background: linear-gradient(to right, #43c6ac, #191654);
     border: none;
     border-radius: 8px;
     width: 100%;

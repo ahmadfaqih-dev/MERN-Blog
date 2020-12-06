@@ -1,5 +1,6 @@
 import Header from './Header';
 import Footer from './Footer';
+import BlogItem from './BLogItem';
 
-export {Header, Footer};
+export {Header, Footer, BlogItem};
 

@@ -1,0 +1,29 @@
+.home-page-wrapper {
+  padding-top: 40px;
+}
+
+.home-page-wrapper .create-wrapper {
+  width: 200px;
+  margin-right: 0px;
+  margin-left: auto;
+}
+
+.home-page-wrapper .content-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.home-page-wrapper .pagination {
+  width: 400px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: auto;
+}
+/*# sourceMappingURL=home.css.map */
