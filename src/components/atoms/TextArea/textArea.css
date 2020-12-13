@@ -1,0 +1,10 @@
+.text-area {
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  padding: 16px;
+  outline: none;
+  min-height: 200px;
+}
+/*# sourceMappingURL=textArea.css.map */

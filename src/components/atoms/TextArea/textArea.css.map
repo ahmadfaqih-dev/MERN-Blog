@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,UAAU;EACtB,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "textArea.scss"
+    ],
+    "names": [],
+    "file": "textArea.css"
+}
